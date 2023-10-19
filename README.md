@@ -3,8 +3,9 @@
 
 
 # Ui screenshots : 
-under construction
+<img src="https://github.com/Unique-chiemerie/whastapp_UI_clone/blob/master/Screenshot_2023-10-19-12-04-08-029-edit_com.example.whastapp_clone.jpg"  width="200" height="500" alt= "Chats screen"> <img src="https://github.com/Unique-chiemerie/whastapp_UI_clone/blob/master/Screenshot_2023-10-19-12-04-19-803_com.example.whastapp_clone.jpg" width="200" height="500" alt="Calls">
 
+<img src="https://github.com/Unique-chiemerie/whastapp_UI_clone/blob/master/Screenshot_2023-10-19-12-04-14-904_com.example.whastapp_clone.jpg" width= "200" height="500" alt="Status screen">
 
 
 ## Run on your device/ Test
